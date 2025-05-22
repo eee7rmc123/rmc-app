@@ -3,6 +3,55 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>RMC App – Earn Money by Watching Videos</title>
+
+  <!-- ✅ SEO Meta Tags -->
+  <meta name="description" content="Download RMC App and earn ₹70+ bonus instantly. Complete tasks like watching videos, inviting friends & more.">
+  <meta name="keywords" content="RMC app, earn money app, watch video earn, RMC earning, investment app, video reward app, RMC download, make money online, RMC earning website">
+  <meta name="author" content="RMC Team">
+  <meta name="robots" content="index, follow">
+
+  <!-- ✅ Open Graph Tags (for WhatsApp, Facebook Preview) -->
+  <meta property="og:title" content="RMC App – Watch Videos & Earn ₹70+" />
+  <meta property="og:description" content="Earn money easily by watching videos & completing simple tasks. RMC App offers bonus rewards!" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://eee7rmc123.github.io/rmc-app/" />
+  <meta property="og:image" content="https://eee7rmc123.github.io/rmc-app/og-image.jpg" />
+
+  <!-- ✅ Twitter Card Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="RMC App – ₹70 Signup Bonus" />
+  <meta name="twitter:description" content="Earn money with RMC App by watching videos and completing easy tasks." />
+  <meta name="twitter:image" content="https://eee7rmc123.github.io/rmc-app/og-image.jpg" />
+
+  <!-- ✅ Favicon (Optional but Recommended) -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+  <!-- ✅ Structured Data for Google -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "MobileApplication",
+    "name": "RMC App",
+    "operatingSystem": "ANDROID",
+    "applicationCategory": "FinanceApplication",
+    "description": "RMC App lets you earn money by watching videos and completing simple tasks. Earn ₹70 bonus on signup!",
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "INR"
+    }
+}
+  </script>
+
+  <style>
+    /* your existing styles go here (unchanged) */
+  </style>
+</head>
+
   <title>RMC App</title>
   <style>
     body {
@@ -234,5 +283,7 @@
 
 </body>
 </html>
+
+
 
 
